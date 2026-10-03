@@ -1,23 +1,23 @@
-# HackLabH Bot | El Bot de M˙sica para Discord que tu Comunidad SÌ Usa
+# MonoNavaja Bot | El Bot de M√∫sica para Discord que tu Comunidad S√≠ Usa
 
 <div align="center">
-  <img src="assets/branding/hacklab_music_bot_animado.gif" alt="HackLabH Bot - bot de m˙sica para Discord" width="240" />
+  <img src="assets/branding/hacklab_music_bot_animado.gif" alt="HackLabH Bot - bot de m√∫sica para Discord" width="240" />
 
-  ## M·s m˙sica, m·s actividad, mejor ambiente en tu servidor
+  ## M√°s m√∫sica, m√°s actividad, mejor ambiente en tu servidor
 
-  **HackLabH Bot** transforma tu Discord con una experiencia musical simple, r·pida y pensada para comunidad.
+  **HackLabH Bot** transforma tu Discord con una experiencia musical simple, r√°pida y pensada para comunidad.
 
-  [?? Invitar ahora](https://panel.hacklabh.xyz/invite) ï [?? Ver comandos](./COMMANDS.md) ï [?? Ver novedades](./UPDATES.md)
+  [?? Invitar ahora](https://panel.hacklabh.xyz/invite) ‚Ä¢ [?? Ver comandos](./COMMANDS.md) ‚Ä¢ [?? Ver novedades](./UPDATES.md)
 </div>
 
 ---
 
-## øQuÈ ganas al usar HackLabH Bot?
+## ¬øQu√© ganas al usar HackLabH Bot?
 
-- ?? **Ambiente activo 24/7** con m˙sica para tu comunidad
+- ?? **Ambiente activo 24/7** con m√∫sica para tu comunidad
 - ? **Comandos simples** para usar desde el primer minuto
-- ?? **Experiencia pensada para usuarios reales**, no para tÈcnicos
-- ?? **Mejoras continuas** con comunicaciÛn p˙blica de novedades
+- ?? **Experiencia pensada para usuarios reales**, no para t√©cnicos
+- ?? **Mejoras continuas** con comunicaci√≥n p√∫blica de novedades
 - ??? **Confianza y transparencia** en seguridad y estado del servicio
 
 ## Hecho para comunidades que quieren crecer
@@ -26,62 +26,62 @@ Perfecto para:
 - Servidores gaming
 - Comunidades sociales
 - Grupos de creadores
-- Proyectos que quieren retenciÛn y m·s interacciÛn en voz
+- Proyectos que quieren retenci√≥n y m√°s interacci√≥n en voz
 
 ## Comandos favoritos de la comunidad
 
-- `/play` ó Pon m˙sica al instante
-- `/skip` ó Salta r·pido al siguiente tema
-- `/queue` ó Mira lo que viene
-- `/pause` y `/resume` ó Control total
-- `/invite` ó Comparte el bot en m·s servidores
+- `/play` ‚Äî Pon m√∫sica al instante
+- `/skip` ‚Äî Salta r√°pido al siguiente tema
+- `/queue` ‚Äî Mira lo que viene
+- `/pause` y `/resume` ‚Äî Control total
+- `/invite` ‚Äî Comparte el bot en m√°s servidores
 
 ?? Ver todos en [COMMANDS.md](./COMMANDS.md)
 
 ## Lo que dice la comunidad (referencial)
 
-> ìLo instalamos en minutos y la actividad en voz subiÛ desde el primer dÌa.î
+> ‚ÄúLo instalamos en minutos y la actividad en voz subi√≥ desde el primer d√≠a.‚Äù
 
-> ìF·cil de usar, sin enredos, y siempre sabemos quÈ novedades trae.î
+> ‚ÄúF√°cil de usar, sin enredos, y siempre sabemos qu√© novedades trae.‚Äù
 
-> ìNos gustÛ que tenga cara p˙blica clara y enfoque responsable.î
+> ‚ÄúNos gust√≥ que tenga cara p√∫blica clara y enfoque responsable.‚Äù
 
 ## Seguridad, legalidad y transparencia
 
-HackLabH Bot mantiene una presencia p˙blica orientada a confianza:
+HackLabH Bot mantiene una presencia p√∫blica orientada a confianza:
 - Estado del servicio visible
 - Actualizaciones comunicadas
-- PolÌtica de seguridad p˙blica
-- Enfoque de operaciÛn legal y responsable
+- Pol√≠tica de seguridad p√∫blica
+- Enfoque de operaci√≥n legal y responsable
 
-Revisa aquÌ:
+Revisa aqu√≠:
 - [STATUS.md](./STATUS.md)
 - [SECURITY.md](./SECURITY.md)
 - [CHANGELOG.md](./CHANGELOG.md)
 
 ## Preguntas frecuentes
 
-### øEs f·cil invitarlo?
-SÌ. Solo usa el enlace oficial y autorÌzalo en tu servidor.
+### ¬øEs f√°cil invitarlo?
+S√≠. Solo usa el enlace oficial y autor√≠zalo en tu servidor.
 
-### øNecesito conocimientos tÈcnicos?
-No. Est· pensado para uso directo por admins y moderadores.
+### ¬øNecesito conocimientos t√©cnicos?
+No. Est√° pensado para uso directo por admins y moderadores.
 
-### øDÛnde veo cambios nuevos?
-En [UPDATES.md](./UPDATES.md) y en los Releases p˙blicos.
+### ¬øD√≥nde veo cambios nuevos?
+En [UPDATES.md](./UPDATES.md) y en los Releases p√∫blicos.
 
 ---
 
 ## ?? Invita HackLabH Bot ahora
 
-Si quieres un **bot de m˙sica para Discord** que mejore el ambiente y la participaciÛn:
+Si quieres un **bot de m√∫sica para Discord** que mejore el ambiente y la participaci√≥n:
 
 ### ? [Invitar HackLabH Bot](https://panel.hacklabh.xyz/invite)
 
 ---
 
-### Recursos p˙blicos
-- InvitaciÛn: [INVITE.md](./INVITE.md)
+### Recursos p√∫blicos
+- Invitaci√≥n: [INVITE.md](./INVITE.md)
 - Comandos: [COMMANDS.md](./COMMANDS.md)
 - Novedades: [UPDATES.md](./UPDATES.md)
 - Seguridad: [SECURITY.md](./SECURITY.md)
