@@ -1,88 +1,151 @@
-# MonoNavaja Bot | El Bot de Música para Discord que tu Comunidad Sí Usa
-
 <div align="center">
-  <img src="assets/branding/hacklab_music_bot_animado.gif" alt="HackLabH Bot - bot de música para Discord" width="240" />
 
-  ## Más música, más actividad, mejor ambiente en tu servidor
+  <img
+    src="assets/branding/mononavaja_animado.gif"
+    alt="MonoNavaja Bot — mascota animada"
+    width="210"
+  />
 
-  **HackLabH Bot** transforma tu Discord con una experiencia musical simple, rápida y pensada para comunidad.
+  <h1>MonoNavaja Bot</h1>
 
-  [?? Invitar ahora](https://panel.hacklabh.xyz/invite) • [?? Ver comandos](./COMMANDS.md) • [?? Ver novedades](./UPDATES.md)
+  <p><strong>La banda sonora de tu comunidad.</strong></p>
+
+  <p>
+    Música para compartir. Niveles para participar. Tickets para organizar.<br />
+    Todo desde tu servidor de Discord.
+  </p>
+
+  <p>
+    <a href="https://panel.hacklabh.xyz/invite">
+      <img src="https://img.shields.io/badge/Invitar_a_MonoNavaja-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invitar a MonoNavaja" />
+    </a>
+    <a href="./COMMANDS.md">
+      <img src="https://img.shields.io/badge/Ver_comandos-24292F?style=for-the-badge" alt="Ver comandos" />
+    </a>
+    <a href="./UPDATES.md">
+      <img src="https://img.shields.io/badge/Novedades-F3B64C?style=for-the-badge" alt="Ver novedades" />
+    </a>
+  </p>
+
+  <p>
+    <a href="#una-experiencia-para-tu-comunidad">Funciones</a>
+    &nbsp;·&nbsp;
+    <a href="#empieza-a-usarlo">Primeros pasos</a>
+    &nbsp;·&nbsp;
+    <a href="#comandos-esenciales">Comandos</a>
+    &nbsp;·&nbsp;
+    <a href="#comunidad-y-soporte">Soporte</a>
+  </p>
+
 </div>
 
 ---
 
-## ¿Qué ganas al usar HackLabH Bot?
+## Una experiencia para tu comunidad
 
-- ?? **Ambiente activo 24/7** con música para tu comunidad
-- ? **Comandos simples** para usar desde el primer minuto
-- ?? **Experiencia pensada para usuarios reales**, no para técnicos
-- ?? **Mejoras continuas** con comunicación pública de novedades
-- ??? **Confianza y transparencia** en seguridad y estado del servicio
+Una partida con amigos, una sesión de estudio o una conversación que se alarga.
+**MonoNavaja** pone la música y reúne herramientas para acompañar la actividad de tu servidor.
 
-## Hecho para comunidades que quieren crecer
+| Función | Qué puedes hacer |
+| :--- | :--- |
+| **Música en voz** | Compartir canciones mientras juegas o conversas. |
+| **Reproductor web** | Controlar la reproducción desde el navegador. |
+| **Playlists personalizadas** | Organizar tu música en listas para cada ocasión. |
+| **Sistema de niveles** | Reconocer la participación de los miembros. |
+| **Tickets de soporte** | Organizar consultas y solicitudes de ayuda. |
 
-Perfecto para:
-- Servidores gaming
-- Comunidades sociales
-- Grupos de creadores
-- Proyectos que quieren retención y más interacción en voz
+## Empieza a usarlo
 
-## Comandos favoritos de la comunidad
+1. **Añade MonoNavaja** desde el [enlace de invitación](https://panel.hacklabh.xyz/invite).
+2. **Selecciona tu servidor** y completa la autorización.
+3. **Entra a un canal de voz** y utiliza `/play` para poner música.
 
-- `/play` — Pon música al instante
-- `/skip` — Salta rápido al siguiente tema
-- `/queue` — Mira lo que viene
-- `/pause` y `/resume` — Control total
-- `/invite` — Comparte el bot en más servidores
+Para conocer las opciones de cada comando, consulta la [guía de comandos](./COMMANDS.md).
 
-?? Ver todos en [COMMANDS.md](./COMMANDS.md)
+## Comandos esenciales
 
-## Lo que dice la comunidad (referencial)
+| Comando | Acción |
+| :--- | :--- |
+| `/play` | Reproduce música. |
+| `/skip` | Pasa a la siguiente canción. |
+| `/queue` | Muestra la cola de reproducción. |
+| `/pause` | Pausa la reproducción. |
+| `/resume` | Reanuda la música. |
+| `/invite` | Obtiene el enlace para invitar al bot. |
 
-> “Lo instalamos en minutos y la actividad en voz subió desde el primer día.”
+**[Explorar todos los comandos →](./COMMANDS.md)**
 
-> “Fácil de usar, sin enredos, y siempre sabemos qué novedades trae.”
+---
 
-> “Nos gustó que tenga cara pública clara y enfoque responsable.”
+## Comunidad y soporte
 
-## Seguridad, legalidad y transparencia
+**MonoNavaja DEV** es el punto de encuentro para recibir ayuda, proponer ideas
+y seguir las novedades del bot.
 
-HackLabH Bot mantiene una presencia pública orientada a confianza:
-- Estado del servicio visible
-- Actualizaciones comunicadas
-- Política de seguridad pública
-- Enfoque de operación legal y responsable
+¿Tienes una duda de configuración, encontraste un error o quieres sugerir una función?
+Compártelo con la comunidad.
 
-Revisa aquí:
-- [STATUS.md](./STATUS.md)
-- [SECURITY.md](./SECURITY.md)
-- [CHANGELOG.md](./CHANGELOG.md)
+**[Consultar los enlaces oficiales →](./INVITE.md)**
+
+## Documentación del proyecto
+
+| Recurso | Contenido |
+| :--- | :--- |
+| [Invitación](./INVITE.md) | Enlaces e instrucciones para añadir el bot. |
+| [Comandos](./COMMANDS.md) | Funciones disponibles y cómo utilizarlas. |
+| [Novedades](./UPDATES.md) | Anuncios y nuevas funciones. |
+| [Historial de cambios](./CHANGELOG.md) | Cambios publicados por versión. |
+| [Estado del servicio](./STATUS.md) | Información sobre el estado del bot. |
+| [Seguridad](./SECURITY.md) | Política y procedimiento para reportar vulnerabilidades. |
 
 ## Preguntas frecuentes
 
-### ¿Es fácil invitarlo?
-Sí. Solo usa el enlace oficial y autorízalo en tu servidor.
+<details>
+  <summary><strong>¿Necesito conocimientos técnicos?</strong></summary>
 
-### ¿Necesito conocimientos técnicos?
-No. Está pensado para uso directo por admins y moderadores.
+Puedes empezar desde Discord con los comandos del bot.
+La [guía de comandos](./COMMANDS.md) te ayuda a conocer las opciones disponibles.
 
-### ¿Dónde veo cambios nuevos?
-En [UPDATES.md](./UPDATES.md) y en los Releases públicos.
+</details>
+
+<details>
+  <summary><strong>¿Cómo controlo la música?</strong></summary>
+
+Utiliza `/play`, `/skip`, `/queue`, `/pause` y `/resume`.
+También puedes gestionar la reproducción desde el reproductor web.
+
+</details>
+
+<details>
+  <summary><strong>¿Dónde recibo ayuda?</strong></summary>
+
+En la comunidad **MonoNavaja DEV**.
+Encontrarás los enlaces oficiales en [INVITE.md](./INVITE.md).
+
+</details>
+
+<details>
+  <summary><strong>¿Dónde consulto las actualizaciones?</strong></summary>
+
+En [UPDATES.md](./UPDATES.md), en el [historial de cambios](./CHANGELOG.md)
+y en los Releases del repositorio.
+
+</details>
 
 ---
 
-## ?? Invita HackLabH Bot ahora
+<div align="center">
 
-Si quieres un **bot de música para Discord** que mejore el ambiente y la participación:
+  <h3>Tu próxima sesión merece una buena playlist.</h3>
 
-### ? [Invitar HackLabH Bot](https://panel.hacklabh.xyz/invite)
+  <p>Añade MonoNavaja y comparte el momento con tu comunidad.</p>
 
----
+  <a href="https://panel.hacklabh.xyz/invite">
+    <img src="https://img.shields.io/badge/A%C3%B1adir_a_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Añadir MonoNavaja a Discord" />
+  </a>
 
-### Recursos públicos
-- Invitación: [INVITE.md](./INVITE.md)
-- Comandos: [COMMANDS.md](./COMMANDS.md)
-- Novedades: [UPDATES.md](./UPDATES.md)
-- Seguridad: [SECURITY.md](./SECURITY.md)
-- Licencia: [LICENSE](./LICENSE)
+  <p>
+    <sub>MonoNavaja Bot · Comunidad MonoNavaja DEV · <a href="./LICENSE">Licencia</a></sub>
+  </p>
+
+</div>
