@@ -1,18 +1,20 @@
-# Estado p鷅lico de HackLabH Bot
+# Estado p煤blico de MonoNavaja
 
-**趌tima actualizaci髇:** 2026-05-30
+**脷ltima verificaci贸n t茅cnica:** 2026-10-03
 
-## Estado general
-?? Operativo
+## Estado observado
 
-## Transparencia
-Este estado refleja comunicaci髇 p鷅lica para usuarios e integradores.
-Los detalles internos de infraestructura y seguridad sensible no se exponen por protecci髇 del servicio.
+| Componente | Resultado |
+| :--- | :--- |
+| Bot de Discord | En ejecuci贸n y saludable en el servidor de producci贸n. |
+| Servicio de m煤sica | En ejecuci贸n y saludable. |
+| Panel local | Responde correctamente. |
+| `/invite` | Redirige a `/install/discord`. |
+| `/install/discord` | Redirige a la autorizaci贸n oficial de Discord. |
+| Acceso HTTPS p煤blico | No qued贸 validado de extremo a extremo durante esta verificaci贸n. |
 
-## Incidentes recientes
-- Sin incidentes p鷅licos cr韙icos reportados en esta actualizaci髇.
+El estado del proceso o de los contenedores no garantiza por s铆 solo que el servicio sea accesible desde Internet. Por eso el acceso p煤blico se informa por separado y no se marca como operativo sin una prueba externa completa.
 
 ## Soporte
-Para novedades y cambios, consulta:
-- `UPDATES.md`
-- Releases del repositorio
+
+Si no puedes abrir el panel o la invitaci贸n, informa el problema en la [comunidad de soporte](https://discord.gg/BX9mTRekGx).

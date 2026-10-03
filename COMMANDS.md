@@ -1,22 +1,66 @@
-# Comandos de HackLabH Bot
+# Comandos de MonoNavaja Bot
 
-Esta lista est· orientada a usuarios finales.
+Los comandos de barra son la forma recomendada de utilizar el bot. Discord muestra las opciones requeridas al escribir cada comando.
 
-## M˙sica
-- `/play` ó Reproduce m˙sica en tu canal de voz.
-- `/stop` ó Detiene la reproducciÛn.
-- `/pause` ó Pausa la canciÛn actual.
-- `/resume` ó Reanuda la reproducciÛn.
-- `/skip` ó Salta a la siguiente canciÛn.
-- `/queue` ó Muestra la cola actual.
-- `/next` ó Avanza al siguiente tema.
-- `/previous` ó Regresa al tema anterior.
-- `/radio` ó Activa modo radio.
-- `/musicstats` ó EstadÌsticas de uso musical.
+Los comandos de m√∫sica y ayuda est√°n publicados globalmente. Las funciones de radio, playlists, tickets, emojis y AutoMod se publican actualmente en el servidor configurado para la comunidad.
+
+## M√∫sica
+
+| Comando | Acci√≥n |
+| :--- | :--- |
+| `/play query:<b√∫squeda o URL>` | Reproduce m√∫sica desde una b√∫squeda o enlace. |
+| `/stop` | Detiene la reproducci√≥n actual. |
+| `/skip` | Salta la canci√≥n actual. |
+| `/next` | Alias de `/skip`. |
+| `/previous` | Vuelve a la canci√≥n anterior. |
+| `/pause` | Pausa la reproducci√≥n. |
+| `/resume` | Reanuda la reproducci√≥n. |
+| `/queue` | Muestra la cola actual. |
+| `/radio accion:<on, off, status o reset>` | Controla el modo radio; acepta un g√©nero o artista opcional. |
+
+## Playlists
+
+| Comando | Acci√≥n |
+| :--- | :--- |
+| `/playlist_create` | Crea una playlist. |
+| `/playlist_list` | Lista las playlists disponibles. |
+| `/playlist_add` | A√±ade una canci√≥n por b√∫squeda o URL. |
+| `/playlist_play` | Reproduce una playlist. |
+| `/playlist_import` | Importa contenido desde una URL o URI de Spotify. |
+
+## Tickets
+
+| Comando | Acci√≥n |
+| :--- | :--- |
+| `/ticket_open` | Abre un ticket con un t√≠tulo. |
+| `/ticket_list` | Lista tickets abiertos, cerrados o todos. |
+| `/ticket_close` | Cierra un ticket por ID. |
+
+## Emojis
+
+| Comando | Acci√≥n |
+| :--- | :--- |
+| `/emoji_add` | A√±ade un emoji desde una URL. |
+| `/emoji_delete` | Elimina un emoji por nombre. |
+| `/emoji_list` | Lista los emojis personalizados del servidor. |
+| `/emoji_app_list` | Lista los emojis de la aplicaci√≥n. |
+| `/emoji_use` | Devuelve un emoji de aplicaci√≥n o un texto alternativo. |
+
+## AutoMod
+
+| Comando | Acci√≥n |
+| :--- | :--- |
+| `/automod_status` | Muestra el estado de AutoMod. |
+| `/automod_enable` | Activa AutoMod. |
+| `/automod_disable` | Desactiva AutoMod. |
+| `/automod_word_add` | A√±ade una palabra bloqueada. |
+| `/automod_word_remove` | Elimina una palabra bloqueada. |
+| `/automod_word_list` | Lista las palabras bloqueadas. |
 
 ## Utilidad
-- `/help` ó Muestra ayuda general.
-- `/invite` ó ObtÈn el enlace oficial para invitar el bot.
 
-## Nota
-La disponibilidad puede variar por servidor o versiÛn p˙blica activa.
+| Comando | Acci√≥n |
+| :--- | :--- |
+| `/help` | Muestra la ayuda general. |
+
+La disponibilidad puede variar mientras Discord propaga una actualizaci√≥n de comandos globales.

@@ -1,17 +1,28 @@
-# Invita HackLabH Bot a tu Discord
+# Invita MonoNavaja a tu servidor
 
-¿Quieres mejorar la música y la energía de tu servidor?
+## InvitaciÃ³n oficial
 
-## ?? Enlace oficial de invitación
-### https://panel.hacklabh.xyz/invite
+**[Abrir la invitaciÃ³n de MonoNavaja](https://panel.monoconavaja.xyz/invite)**
 
-## ¿Qué te ofrece HackLabH Bot?
-- Experiencia musical para tu comunidad
-- Comandos simples y rápidos
-- Mejoras continuas con novedades públicas
-- Comunicación transparente para usuarios
+El flujo oficial funciona asÃ­:
 
-## Recomendación importante
-Usa siempre el enlace oficial para una integración segura y actualizada.
+1. `https://panel.monoconavaja.xyz/invite` redirige a `/install/discord`.
+2. El panel genera la autorizaciÃ³n oficial de Discord.
+3. Discord te permite elegir el servidor y revisar los permisos solicitados.
 
-?? **Invitar ahora:** https://panel.hacklabh.xyz/invite
+La autorizaciÃ³n incluye el bot y sus comandos de barra. No solicita el permiso de Administrador.
+
+## Antes de autorizar
+
+- Comprueba que la direcciÃ³n pertenece a `panel.monoconavaja.xyz` o `discord.com`.
+- Selecciona Ãºnicamente un servidor que administres.
+- Revisa los permisos mostrados por Discord.
+- No compartas tokens, contraseÃ±as ni cÃ³digos de recuperaciÃ³n.
+
+## Otros enlaces
+
+- [GuÃ­a de instalaciÃ³n](https://panel.monoconavaja.xyz/install)
+- [Panel](https://panel.monoconavaja.xyz/)
+- [Comunidad y soporte](https://discord.gg/BX9mTRekGx)
+- [TÃ©rminos](https://panel.monoconavaja.xyz/terms)
+- [Privacidad](https://panel.monoconavaja.xyz/privacy)

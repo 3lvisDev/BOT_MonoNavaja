@@ -1,13 +1,17 @@
-# Novedades p˙blicas (Product Updates)
+# Novedades de MonoNavaja
 
-## 2026-05-30 ó Nueva imagen p˙blica orientada a comunidad
-- Lanzamos una presentaciÛn m·s comercial y clara para usuarios nuevos.
-- Mejoramos la experiencia de descubrimiento: comandos, estado y seguridad en acceso r·pido.
-- Reforzamos el enfoque de transparencia p˙blica y comunicaciÛn continua.
+## 2026-10-03 ‚Äî Nueva identidad y dominios oficiales
 
-## 2026-05-16 ó Actualizaciones de documentaciÛn p˙blica
-- Ajustes generales en contenidos p˙blicos para mayor claridad.
+- HackLabH Bot pasa a llamarse **MonoNavaja Bot**.
+- El repositorio oficial ahora es `3lvisDev/BOT_MonoNavaja`.
+- El sitio p√∫blico utiliza `www.monoconavaja.xyz`.
+- El panel, la instalaci√≥n, la invitaci√≥n, los t√©rminos y la privacidad utilizan `panel.monoconavaja.xyz`.
+- La invitaci√≥n p√∫blica centraliza el flujo en `/invite` y redirige a la autorizaci√≥n oficial de Discord mediante `/install/discord`.
+- La documentaci√≥n de comandos se aline√≥ con m√∫sica, radio, playlists, tickets, emojis y AutoMod.
 
----
+## 2026-05-30 ‚Äî Presentaci√≥n p√∫blica orientada a la comunidad
 
-Para historial por versiÛn, revisa tambiÈn los Releases del repositorio.
+- Se reorganiz√≥ la documentaci√≥n para facilitar el acceso a comandos, estado y seguridad.
+- Se reforz√≥ la comunicaci√≥n p√∫blica de novedades.
+
+Consulta [CHANGELOG.md](./CHANGELOG.md) y los Releases del repositorio para el historial t√©cnico por versi√≥n.

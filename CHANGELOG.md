@@ -6,6 +6,20 @@ Format inspired by Keep a Changelog.
 
 ---
 
+## [Unreleased] - 2026-10-03
+
+### Changed
+
+- Renamed the public product from HackLabH Bot to MonoNavaja Bot.
+- Renamed the public repository to `3lvisDev/BOT_MonoNavaja`.
+- Moved public website links to `www.monoconavaja.xyz`.
+- Moved panel, invite, install, terms, and privacy links to
+  `panel.monoconavaja.xyz`.
+- Documented the canonical `/invite` → `/install/discord` → Discord OAuth flow.
+- Synchronized public command documentation with the current registration set.
+
+---
+
 ## [2.0.0] - 2026-04-19
 
 ## 🚀 Headline
@@ -64,5 +78,5 @@ Format inspired by Keep a Changelog.
 HackLabH Bot now delivers a complete Discord operations stack: Music Engine, Web Player, Spotify Imports, Custom Playlists, Tickets, Leveling, and secure owner-first administration.
 
 **Primary CTA:**  
-[Invite HackLabH Bot](https://panel.hacklabh.xyz/invite)
+[Invite MonoNavaja Bot](https://panel.monoconavaja.xyz/invite)
 
